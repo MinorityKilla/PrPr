@@ -31,8 +31,8 @@
 ## URL
 Пример: http://mi-ami.ru:8080/profile/account.html?gender=male&age=13#comments
 
-Компоненты
-Протокол
+• Компоненты
+• Протокол
 Доменное имя
 Порт
 Путь
